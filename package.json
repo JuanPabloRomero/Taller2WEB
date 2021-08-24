@@ -1,0 +1,14 @@
+{
+  "name": "taller-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taller2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
